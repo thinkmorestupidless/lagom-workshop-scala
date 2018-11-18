@@ -2,10 +2,10 @@
 
 ## Summary of using the course tools
 
-from the project root type sbt to begin the course
-type man e to see the instructions for the exercise
-type run when you think you've got the solution
-type nextExercise pullSolution reload to progress to the next exercise when you are satisfied
+* From the project root type sbt to begin the course
+* Type man e to see the instructions for the exercise
+* Type run when you think you've got the solution
+* Type nextExercise pullSolution reload to progress to the next exercise when you are satisfied
 
 ## Long winded version
 
